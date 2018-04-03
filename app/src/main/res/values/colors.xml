@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Create the background color for Red -->
+    <color name="color_Red_Background">#FF0000</color>
+    <!-- Create the background color for Orange -->
+    <color name="color_Orange_Background">#FF7F00</color>
+    <!-- Create the background color for Yellow -->
+    <color name="color_Yellow_Background">#FFFF00</color>
+    <!-- Create the background color for Green -->
+    <color name="color_Green_Background">#008000</color>
+    <!-- Create the background color for Blue-->
+    <color name="color_Blue_Background">#0000FF</color>
+    <!-- Create the background color for Indigo -->
+    <color name="color_Indigo_Background">#4B0082</color>
+    <!-- Create the background color for Violet -->
+    <color name="color_Violet_Background">#BF00FF</color>
+
+    <!-- I saw from the picture that some of the text colors looked different
+     so i used a screen capture to capture the image and then i used a color picker
+     to get an approximation for what color was used the first
+     4 were clearly black looking so i set those first 4 as black
+     I could just use one color for all top 4 but in the real world if i wanted to change
+     the colors for one of the four id be in trouble having to alter much more code easier this way
+     -->
+
+    <!-- Setting the color for the text RED to black-->
+    <color name="color_Red_Text">#000000</color>
+    <!-- Setting the color for the text Orange to black-->
+    <color name="color_Orange_Text">#000000</color>
+    <!-- Setting the color for the text Yellow to black-->
+    <color name="color_Yellow_Text">#000000</color>
+    <!-- Setting the color for the text Green to black-->
+    <color name="color_Green_Text">#000000</color>
+    <!-- Setting the color for the text Blue to a lighter shade of blue-->
+    <color name="color_Blue_Text">#7E84F6</color>
+    <!-- Setting the color for the text Indigo to a lighter shade of Purple-->-->
+    <color name="color_Indigo_Text">#B582D9</color>
+    <!-- Setting the color for the text Violet to a darker shade of Purple-->-->
+    <color name="color_Violet_Text">#4B0082</color>
+</resources>

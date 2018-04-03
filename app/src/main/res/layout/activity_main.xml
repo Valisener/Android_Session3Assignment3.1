@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:weightSum="6"
+    >
+
+    <TextView
+        android:id="@+id/view_Red"
+        style="@style/StyleTheme"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="@string/string_red"
+        android:textAlignment="center"
+        android:textColor="@color/color_Red_Text"
+
+        android:visibility="visible"
+        android:background="@color/color_Red_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Orange"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_orange"
+        android:textAlignment="center"
+        android:textColor="@color/color_Orange_Text"
+        android:background="@color/color_Orange_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Yellow"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_yellow"
+        android:textAlignment="center"
+        android:textColor="@color/color_Yellow_Text"
+        android:background="@color/color_Yellow_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Green"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_green"
+        android:textAlignment="center"
+        android:textColor="@color/color_Green_Text"
+        android:background="@color/color_Green_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Blue"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_blue"
+        android:textAlignment="center"
+        android:textColor="@color/color_Blue_Text"
+        android:background="@color/color_Blue_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Indigo"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_indigo"
+        android:textAlignment="center"
+        android:textColor="@color/color_Indigo_Text"
+        android:background="@color/color_Indigo_Background" />
+
+
+    <TextView
+        android:id="@+id/view_Violet"
+        style="@style/StyleTheme"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/string_violet"
+        android:textAlignment="center"
+        android:textColor="@color/color_Violet_Text"
+        android:background="@color/color_Violet_Background" />
+</LinearLayout>
+

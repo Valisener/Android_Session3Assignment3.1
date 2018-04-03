@@ -1,0 +1,21 @@
+<resources>
+    <!--  Need comments not sure how many i should do or if its needed but i want those 200 points
+      So comments here we go!
+      -->
+    <!-- Application Name   -->
+    <string name="app_name">Assignment3</string>
+    <!-- Text that says RED for the text view  -->
+    <string name="string_red">RED</string>
+    <!-- Text that says ORANGE  for the text view  -->
+    <string name="string_orange">ORANGE</string>
+    <!--  Text that says YELLOW  for the text view  -->
+    <string name="string_yellow">YELLOW</string>
+    <!--  Text that says GREEN  for the text view  -->
+    <string name="string_green">GREEN</string>
+    <!--  Text that says BLUE  for the text view  -->
+    <string name="string_blue">BLUE</string>
+    <!--  Text that says INDIGO for the text view   -->
+    <string name="string_indigo">INDIGO</string>
+    <!--  Text that says VIOLET  for the text view  -->
+    <string name="string_violet">VIOLET</string>
+</resources>
