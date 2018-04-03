@@ -11,6 +11,7 @@
     android:weightSum="6"
     >
 
+    <!--This is the Red Text View -->
     <TextView
         android:id="@+id/view_Red"
         style="@style/StyleTheme"
@@ -19,11 +20,10 @@
         android:text="@string/string_red"
         android:textAlignment="center"
         android:textColor="@color/color_Red_Text"
-
         android:visibility="visible"
         android:background="@color/color_Red_Background" />
 
-
+    <!--This is the Orange Text View -->
     <TextView
         android:id="@+id/view_Orange"
         style="@style/StyleTheme"
@@ -34,7 +34,7 @@
         android:textColor="@color/color_Orange_Text"
         android:background="@color/color_Orange_Background" />
 
-
+    <!--This is the Yellow Text View -->
     <TextView
         android:id="@+id/view_Yellow"
         style="@style/StyleTheme"
@@ -45,7 +45,7 @@
         android:textColor="@color/color_Yellow_Text"
         android:background="@color/color_Yellow_Background" />
 
-
+    <!--This is the Green Text View -->
     <TextView
         android:id="@+id/view_Green"
         style="@style/StyleTheme"
@@ -56,7 +56,7 @@
         android:textColor="@color/color_Green_Text"
         android:background="@color/color_Green_Background" />
 
-
+    <!--This is the Blue Text View -->
     <TextView
         android:id="@+id/view_Blue"
         style="@style/StyleTheme"
@@ -67,7 +67,7 @@
         android:textColor="@color/color_Blue_Text"
         android:background="@color/color_Blue_Background" />
 
-
+    <!--This is the Indigo Text View -->
     <TextView
         android:id="@+id/view_Indigo"
         style="@style/StyleTheme"
@@ -78,7 +78,7 @@
         android:textColor="@color/color_Indigo_Text"
         android:background="@color/color_Indigo_Background" />
 
-
+    <!--This is the Violet Text View -->
     <TextView
         android:id="@+id/view_Violet"
         style="@style/StyleTheme"
