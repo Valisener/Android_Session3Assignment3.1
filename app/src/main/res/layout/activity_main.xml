@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:weightSum="6"
+    android:weightSum="7"
     >
 
     <!--This is the Red Text View -->
