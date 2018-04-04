@@ -9,5 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //Hide the status bar up top since the photo from the assignment shows no status bar up top
+        getSupportActionBar().hide();
     }
 }
